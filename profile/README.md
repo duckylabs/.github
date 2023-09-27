@@ -7,13 +7,4 @@
 </p>
 
 
----
-
-<br>
-
-<p align="center">
-  <span style="font-size: 34px; font-weight:bold">Ducky Labs</span>
-</p>
-
-
 > Coming soon 🦆...
